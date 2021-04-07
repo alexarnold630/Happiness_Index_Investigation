@@ -31,7 +31,7 @@ The world chloropeth map illustrates the Happiness Scores by country from 2015-2
 __Happiness Scores over Time__
 After analyzing who was happy, we analyzed the Happiness Score over time. The histogram shows a normal distribution of these scores over the 2015-2020 timeframe highlighted by the overlay. The violin plot of the Happiness Score goes on to emphasize this distribution for each year in addition to showing the slight increase in scores.
 ![Happiness-Histogram](Images/Histograms/Histogram_of_Happiness_Score_Over_Time.png)
-![Violin-Plot](Happiness/Images/Violin_Plots/Violin Plot of Happiness Score Over Time.png)
+![Violin-Plot](Images/Violin_Plots/Violin_Plot_of_Happiness_Score_Over_Time.png)
 
 __ANOVA: Economy (GDP per Capita)__
 After investigating the ANOVA for overall Happiness Score, we ran it with all of the different variables that made up the Happiness Score. All of the variables were statistically significant. It is important to note that for the variable Economy, the statistically significant result was fragile. By looking at the series of means in figure 4, the year 2015 is a very slight outlier compared to the rest of the years. Despite how inconsequential this may appear, we found that after removing this year from the test, there was no longer overall statistical significance for Economy.
