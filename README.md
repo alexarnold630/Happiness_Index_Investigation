@@ -1,6 +1,6 @@
 # Happiness Index Investigation
 
-## Background
+## Objective
 Find, clean, and analyze data through exploratory data analysis (EDA) investigating the World Happiness Index and determining whether weather affects happiness.
 
 ## Technologies Used
@@ -8,6 +8,9 @@ Find, clean, and analyze data through exploratory data analysis (EDA) investigat
 - Jupyter Notebook
 - Matplotlib
 - Seaborn
+
+## Background
+Buddha said it best, “There is no path to happiness. Happiness is the path.” This project investigates happiness and its features based on the scoring methodology provided by the World Happiness Report.  It was intriguing to investigate whether or not happiness could be viewed as a standard metric or if other factors can play a part in affecting it, which led to the further examination of weather characteristics.
 
 ## Hypotheses
 - Happiness has increased over time.
