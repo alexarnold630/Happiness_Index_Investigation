@@ -99,4 +99,10 @@ There were a few limitations that came across in the exploration of this dataset
 ## Future Work
 In the future, it would be useful to expand the weather data by accumulating it over the same 2015-2020 time period and see if there really is any correlation between weather and happiness. Investigating other factors such as education, housing, etc. would be beneficial to see if there is any connection between them and Happiness Scores.
 
+#### Contact:
+Alex Arnold: alexnarnold630@gmail.com
+Sophie Knight
+Samantha Lane
+Rachel Podemski
+
 
