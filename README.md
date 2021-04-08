@@ -61,6 +61,7 @@ When running the test for Economy and Health, these tests all produced p-values 
 
 __Correlations__
 Economy and Health Life Expectancy have the strongest correlations. The strengths of these correlations were also investigated by creating scatterplots and running stats models.  Since both r-values were above .5, they have a strong positive correlation. 
+
 ![Correlations](Happiness/Images/Heatmaps/Happiness_Correlation_Heat_Map.png)
 
 Stats models were also run on the other variables. All of them had a positive r-value that was below .5 and therefore have a weak correlation with Happiness Score.
