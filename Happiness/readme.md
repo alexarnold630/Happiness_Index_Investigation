@@ -102,8 +102,8 @@ In the future, it would be useful to expand the weather data by accumulating it 
 
 #### Contact:
 Alex Arnold: alexnarnold630@gmail.com <br>
-Sophie Knight
-Samantha Lane
+Sophie Knight <br>
+Samantha Lane <br>
 Rachel Podemski
 
 
