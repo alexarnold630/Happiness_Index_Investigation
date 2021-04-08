@@ -1,6 +1,6 @@
 # Happiness Index Investigation
 
-## Object
+## Objective
 Find, clean, and analyze data through exploratory data analysis (EDA) investigating the World Happiness Index and determining whether weather affects happiness.
 
 ## Technologies Used
