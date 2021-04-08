@@ -47,7 +47,7 @@ Through ANOVA testing we found that another significant factor of overall happin
 
 __Top & Bottom Countries__
 After investigating the difference between different variables across the years, the countries that were repeatedly in the top and bottom 10% of the total countries based on their Happiness Score were investigated.  The top three countries were Denmark, Norway and Iceland. The bottom three countries were Rwanda, Afghanistan, and Tanzania.
-![Countries_Score](Images/Line_Charts/Top_Countries_Happiness_Score_over_the_Years.png)
+![Countries_Score](Images/Line_Charts/Top_and_Bottom_Countries_Happiness_Score_over_the_Years.png)
 
 All three of the top countries' Health and Life Expectancy dropped from 2019 to 2020 whereas the bottom three countries have risen from 2019 to 2020. It is also worth noting that these values are quickly approaching each other, yet the bottom three countries remained in the bottom 10% and the top three countries remained in the top 10% based on Happiness Rank.
 
